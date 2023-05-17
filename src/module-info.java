@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author covie
+ *
+ */
+module JavaProject {
+}
